@@ -1,0 +1,29 @@
+h1{
+    color: rgb(194, 214, 16);
+    text-align:center;
+}
+
+h2{
+    color: blueviolet;
+    text-align:center;
+}
+
+h3{
+    color: red;
+}
+
+h4{color: aqua;
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwUe09HBmqpkZ24hB1r_rPkijBrGG7rprXA&s);
+    background-size: cover;
+}
+
+ul{
+    color: aqua;
+}
+
+ol{
+    color: aqua;
+}
